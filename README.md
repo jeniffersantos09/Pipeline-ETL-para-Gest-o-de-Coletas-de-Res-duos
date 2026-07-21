@@ -1,8 +1,3 @@
-Perfeito, Jeniffer — seu projeto está muito bem estruturado e merece um **README** profissional que comunique claramente o propósito, a arquitetura e as tecnologias utilizadas.  
-Aqui está um modelo completo e elegante para você adicionar ao repositório:
-
----
-
 ## 🧩 Projeto de Engenharia de Dados | Pipeline ETL para Gestão de Coletas de Resíduos
 
 ### 📘 Descrição
