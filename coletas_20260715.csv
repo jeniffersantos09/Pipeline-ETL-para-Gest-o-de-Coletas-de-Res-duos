@@ -1,0 +1,12 @@
+nome_empresa;cnpj;tipo_residuo;data_coleta;peso_estimado;endereco
+Supermercado Economia;12345678000190;Reciclável;16/07/2026;350.5;Rua Central 120
+Hospital São Lucas;98765432000111;Hospitalar;16/07/2026;180.0;Av Brasil 455
+Indústria Metalúrgica Alfa;11222333000144;Industrial;17/07/2026;1200.8;Distrito Industrial
+Restaurante Bom Sabor;55443322000177;Orgânico;16/07/2026;95.6;Rua das Flores 30
+;12345678000190;Reciclável;16/07/2026;350;Rua Central
+Mercado Central;99887766000100;Orgânico;16/07/2026;-50;Rua A
+Empresa XPTO;11122233000155;Radioativo;16/07/2026;150;Rua B
+Padaria União;99881122000100;Orgânico;10/01/2025;80;Rua C
+Farmácia Vida;12.345.678/0001-90;Hospitalar;17/07/2026;60;Av Principal
+rede compras;99887766000800;Reciclável;16/07/2026;400;floriano peixoto
+hospita d.pedro 1;11222333000166;Hospitalar;16/07/2026;699;Av Principal
