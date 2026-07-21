@@ -50,8 +50,3 @@ Este projeto aplica conceitos de **Engenharia de Dados corporativa**, integrando
 ### 🏷️ 
 **Jeniffer Santos**  
 Engenheira de Dados 
-
-
----
-
-Quer que eu adicione uma seção final com **instruções de execução** (como rodar o Docker e iniciar o Airflow) para deixar o README ainda mais completo?
